@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from mars_sre_runbook_engine.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "mars_sre_runbook_engine"
